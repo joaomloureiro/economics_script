@@ -1,0 +1,18 @@
+# Core data handling
+pandas>=2.0
+numpy>=1.24
+
+# Data sources
+requests>=2.31
+fredapi>=0.5.1
+yfinance>=0.2.36
+
+# Plotting
+matplotlib>=3.8
+
+# Streamlit app
+streamlit>=1.31
+
+# Date handling (robust parsing, business days, etc.)
+python-dateutil>=2.8
+pytz>=2023.3
