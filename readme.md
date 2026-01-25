@@ -18,7 +18,7 @@ The app displays the latest economic snapshot, historical trends, and pre-genera
 ---
 
 ## 🗂 Project Structure
-
+```text
 .
 ├── app.py                  # Streamlit application
 ├── economics.py            # Daily data collection & plotting script
@@ -31,7 +31,7 @@ The app displays the latest economic snapshot, historical trends, and pre-genera
 └── .github/
 └── workflows/
 └── daily_refresh.yml  # GitHub Actions daily job
-
+```
 ---
 
 ## 🚀 Live App
@@ -65,9 +65,9 @@ Add a repository secret:
 #### Streamlit Cloud
 Add the same key under **App → Settings → Secrets**:
 
-+++
+```code
 FRED_API_KEY = "your_key_here"
-+++
+```
 
 ## Run locally
 # Clone the repository
