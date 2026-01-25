@@ -7,7 +7,12 @@ import time
 
 st.set_page_config(page_title="Daily Economic Metrics", layout="wide")
 
-DATA_DIR = Path("/Users/joaomloureiro/Desktop/economics_script/dashboard_data")
+# Put artifacts inside the repo, next to app.py
+BASE_DIR = Path(__file__).resolve().parent
+DATA_DIR = BASE_DIR / "dashboard_data"
+
+DATA_DIR.mkdir(parents=True, exist_ok=True)
+
 LATEST = DATA_DIR / "latest.json"
 HISTORY = DATA_DIR / "history.csv"
 
