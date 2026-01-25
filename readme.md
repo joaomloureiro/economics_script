@@ -79,14 +79,20 @@ python -m venv .venv
 source .venv/bin/activate
 
 # Install dependencies
+```code
 pip install -r requirements.txt
+```
 
 # Run data update once
+```code
 export FRED_API_KEY="your_key_here"
 python economics.py --out-dir dashboard_data
+```
 
 # Launch the Streamlit app
+```code
 streamlit run app.py
+```
 
 ## Configuration
 - Schedule: configured via cron in .github/workflows/daily_refresh.yml (UTC)
