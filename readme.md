@@ -65,8 +65,9 @@ Add a repository secret:
 #### Streamlit Cloud
 Add the same key under **App → Settings → Secrets**:
 
-```toml
++++
 FRED_API_KEY = "your_key_here"
++++
 
 ## Run locally
 # Clone the repository
