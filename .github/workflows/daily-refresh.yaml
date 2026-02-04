@@ -4,7 +4,7 @@ on:
   workflow_dispatch: {}
   schedule:
     # Runs daily at 07:05 UTC (change as you like)
-    - cron: "5 8 * * *"
+    - cron: "9 8 * * *"
 
 permissions:
   contents: write
