@@ -1,7 +1,7 @@
 name: Daily refresh dashboard data
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: {}
   schedule:
     # Runs daily at 07:05 UTC (change as you like)
     - cron: "5 7 * * *"
