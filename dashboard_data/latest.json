@@ -1,58 +1,58 @@
 [
   {
-    "retrieved_at_utc":"2026-02-06 16:00:40Z",
+    "retrieved_at_utc":"2026-02-15 02:45:59Z",
     "name":"US CPI YoY",
-    "value":3.0276600653,
-    "date":"2025-12-01",
+    "value":2.8286797395,
+    "date":"2026-01-01",
     "units":"%"
   },
   {
-    "retrieved_at_utc":"2026-02-06 16:00:40Z",
+    "retrieved_at_utc":"2026-02-15 02:45:59Z",
     "name":"Unemployment Rate",
-    "value":4.4,
-    "date":"2025-12-01",
+    "value":4.3,
+    "date":"2026-01-01",
     "units":"%"
   },
   {
-    "retrieved_at_utc":"2026-02-06 16:00:40Z",
+    "retrieved_at_utc":"2026-02-15 02:45:59Z",
     "name":"Effective Fed Funds Rate",
     "value":3.64,
-    "date":"2026-02-05",
+    "date":"2026-02-12",
     "units":"%"
   },
   {
-    "retrieved_at_utc":"2026-02-06 16:00:40Z",
+    "retrieved_at_utc":"2026-02-15 02:45:59Z",
     "name":"10Y Treasury Yield",
-    "value":4.29,
-    "date":"2026-02-04",
+    "value":4.09,
+    "date":"2026-02-12",
     "units":"%"
   },
   {
-    "retrieved_at_utc":"2026-02-06 16:00:40Z",
+    "retrieved_at_utc":"2026-02-15 02:45:59Z",
     "name":"S&P 500",
-    "value":6877.4301757812,
-    "date":"2026-02-06",
+    "value":6836.169921875,
+    "date":"2026-02-13",
     "units":""
   },
   {
-    "retrieved_at_utc":"2026-02-06 16:00:40Z",
+    "retrieved_at_utc":"2026-02-15 02:45:59Z",
     "name":"Nasdaq 100",
-    "value":24800.423828125,
-    "date":"2026-02-06",
+    "value":24732.73046875,
+    "date":"2026-02-13",
     "units":""
   },
   {
-    "retrieved_at_utc":"2026-02-06 16:00:40Z",
+    "retrieved_at_utc":"2026-02-15 02:45:59Z",
     "name":"Dow Jones",
-    "value":49721.01171875,
-    "date":"2026-02-06",
+    "value":49500.9296875,
+    "date":"2026-02-13",
     "units":""
   },
   {
-    "retrieved_at_utc":"2026-02-06 16:00:40Z",
+    "retrieved_at_utc":"2026-02-15 02:45:59Z",
     "name":"VIX",
-    "value":18.6599998474,
-    "date":"2026-02-06",
+    "value":20.6000003815,
+    "date":"2026-02-13",
     "units":""
   }
 ]
